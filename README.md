@@ -1,0 +1,1 @@
+A 2D Platformer Game built with Unity and C#, featuring custom level design, smooth character movement, and collectible mechanics. The game challenges players to navigate obstacles, jump across platforms, and collect items to progress through levels.
