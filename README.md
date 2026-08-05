@@ -42,16 +42,6 @@ As the game progresses, the difficulty increases, making it more challenging and
 
 ---
 
-## 🖥️ Controls
-
-| Key | Action |
-|------|--------|
-| Space | Jump |
-| Left Mouse (Optional) | UI Interaction |
-| Esc | Pause/Quit (if implemented) |
-
----
-
 ## 📂 Project Structure
 
 ```
@@ -128,9 +118,6 @@ While developing Pixel Dash, I gained practical experience in:
 - Difficulty scaling
 
 ---
-
-## 👨‍💻 Author
-
 **Kumar Ayush**
 
 
