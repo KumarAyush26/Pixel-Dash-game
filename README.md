@@ -58,21 +58,6 @@ Assets/
 
 ---
 
-## 📸 Screenshots
-
-> Add gameplay screenshots here.
-
-Example:
-
-```
-Screenshots/
-├── gameplay.png
-├── menu.png
-├── gameover.png
-```
-
----
-
 ## 🚀 How to Run
 
 1. Clone the repository
